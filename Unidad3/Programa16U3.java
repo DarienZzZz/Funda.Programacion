@@ -22,7 +22,7 @@ public class Programa16U3 {
             p = sc.nextInt();
             s= h * p;
             System.out.println("Su sueldo total es: " + s);
-            i--; //!!! Poner el decremento !!!
+            i--; //!!! Poner el incremento/decremento !!!
         }
     }
 }
