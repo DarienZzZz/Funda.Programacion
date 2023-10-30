@@ -21,8 +21,9 @@ public class Programa18U3 {
         System.out.println("Su sueldo por año es: " + s);
         a= s * 0.10;
         s= s + a;
+        ta= ta + s;
        }
-       ta= ta + s;
+       
         System.out.println("Su sueldo al cabo de 6 años: " + ta); 
     }
 
